@@ -20,7 +20,7 @@ import UserManagementPage from "./admin/UserManagementPage";
 import FinanceManagementPage from "./admin/FinanceManagement";
 import MedicalAdminPage from "./admin/MedicalAdminPage";
 import SystemReportPage from "./admin/SystemReportPage";
-import ClinicDashboard from "./clinic/clinicDashboard";
+import ClinicDashboard from "./clinic/ClinicDashboard";
 import CommunicationNurse from "./communication/CommunicationNurse";
 import NurseHealthRecordsPage from "./clinic/HealthRecordsPage";
 import MedicalAppointmentsPage from "./clinic/MedicalAppointmentsPage";
